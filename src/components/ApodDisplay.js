@@ -20,3 +20,4 @@ export default function ApodDisplay() {
         </div>
     );
 } 
+export default ApodDisplay

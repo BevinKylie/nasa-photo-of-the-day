@@ -33,3 +33,4 @@ export default class MyDayPicker extends React.Component {
     );
   }
 } 
+export default MyDayPicker 
